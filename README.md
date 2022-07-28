@@ -10,7 +10,8 @@ The languages used in this project are Python Flask, Jinja2 as the web template 
 * After installing all dependencies, run `top.py` with your machine's corresponding Python verion.
 
 ## Login Instructions ##
-If you don't want to create your own account, some accounts have already been created:
+For logging in, you can create your own account, or you can use some of the existing accounts.
+The passwords for the accounts are the same as their respective username, as seen below:
 Username | Password
 ------------ | -------------
 A123 | A123
